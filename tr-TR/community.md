@@ -30,18 +30,18 @@ Rust diline yeni başlayanlar için en önemli topluluk kaynakları:
 - [#rust-beginners][beginners_irc], her türlü zorluktaki sorulara cevap vermeyi 
   seven bir IRC kanalıdır.
   
-- [Kullanıcı_Forumu][users_forum], Rust hakkında her türlü şeyi tartışmak için 
+- [Kullanıcı Forumu][users_forum], Rust hakkında her türlü şeyi tartışmak için 
   forum adresi.
 
-Ayrıca, yardım konusunda [Stack_Overflow][stack_overflow] soru/cevap sitesinden de 
+Ayrıca, yardım konusunda [Stack Overflow][stack_overflow] soru/cevap sitesinden de 
 faydalanabilirsiniz.
 
 ## Haberler
 
-[Rust'ta_Bu_Hafta][twir] adresinde, Rust ile ilgili en güncel haberler, gelecek etkinlikler, 
+[Rust'ta Bu Hafta][twir] adresinde, Rust ile ilgili en güncel haberler, gelecek etkinlikler, 
 Rust dilinde ve kütüphanelerinde yapılan değişiklikler hafta hafta derlenir.
 
-Rust ekibi tarafından önemli geliştirmeler hakkında yapılan duyurular, [Rust_Blog][rust_blog] 
+Rust ekibi tarafından önemli geliştirmeler hakkında yapılan duyurular, [Rust Blog][rust_blog] 
 adresinde yer alacaktır. Ve neredeyse Rust dilinde olan her şey, resmi olmayan [/r/rust][reddit] 
 adresinde tartışılmaktadır.
 
@@ -88,21 +88,21 @@ katkı sağlamak adına sorulan sorulara da bu kanal üzerinde cevap verilir.
 
 ### Takım Kanalları
 
-- [#cargo][cargo_irc] Rust paket yöneticisi, Cargo tartışmaları içindir, [cargo_takımının][cargo_team] ilk adresidir.
-- [#rust-community][community_irc], [topluluk_takımının][community_team] ilk adresidir.
-- [#rustc][rustc_irc], [derleyici_takımının][compiler_team] ilk adresidir.
-- [#rust-dev-tools][dev_tools_irc], [geliştirme_araçları_takımının][dev_tools_team] ilk adresidir.
-- [#rust-docs][docs_irc], [dokümantasyon_takımının][doc_team] ilk adresidir.
-- [#rust-infra][infra_irc], [altyapı_takımının][infra_team] ilk adresidir.
-- [#rust-lang][lang_irc], [çeviri_takımının][language_team] ilk adresidir.
-- [#rust-libs][libs_irc], [kütüphane_takımının][library_team] ilk adresidir.
-- [#rust-mods][mod_irc], [yönetim_takımının][mod_team] irc kanalıdır.
+- [#cargo][cargo_irc] Rust paket yöneticisi, Cargo tartışmaları içindir, [cargo takımının][cargo_team] ilk adresidir.
+- [#rust-community][community_irc], [topluluk takımının][community_team] ilk adresidir.
+- [#rustc][rustc_irc], [derleyici takımının][compiler_team] ilk adresidir.
+- [#rust-dev-tools][dev_tools_irc], [geliştirme araçları takımının][dev_tools_team] ilk adresidir.
+- [#rust-docs][docs_irc], [dokümantasyon takımının][doc_team] ilk adresidir.
+- [#rust-infra][infra_irc], [altyapı takımının][infra_team] ilk adresidir.
+- [#rust-lang][lang_irc], [çeviri takımının][language_team] ilk adresidir.
+- [#rust-libs][libs_irc], [kütüphane takımının][library_team] ilk adresidir.
+- [#rust-mods][mod_irc], [yönetim takımının][mod_team] irc kanalıdır.
 - [#rust-style][style_irc], [style strike takımının][style_team] ilk adresidir.
 - [#rustdoc][rustdoc_irc], Rustdoc takımının ilk adresidir.
 
 ### Konu Temalı Kanallar
 
-Aşağıdaki kanallar büyük geniş Rust topluluğu kanallarıdır, Rust [yönetim_takımı][mod_team] tarafından yönetilmezler.
+Aşağıdaki kanallar büyük geniş Rust topluluğu kanallarıdır, Rust [yönetim takımı][mod_team] tarafından yönetilmezler.
 
 - [#rust-bots][bots_irc] botlar tarafından seçilen Rust ile ilgili duyurular
 - [#rust-crypto][crypto_irc] Rust şifreleme tartışmaları içindir.
@@ -170,26 +170,26 @@ Aşağıdaki kanallar büyük geniş Rust topluluğu kanallarıdır, Rust [yöne
 
 Asenkron tartışmalar için iki adet forumumuz mevcut:
 
-- [Kullanıcı_Forumu][users_forum], soru sorma, kod parçaları gönderme,
+- [Kullanıcı Forumu][users_forum], soru sorma, kod parçaları gönderme,
   Rust projesi hakkında konuşma vb. işlemler için kullanılabilen adres
 
-- [Dahili_Forum][internals_forum], Rust dilinin tasarımı ve geliştirilmesi
+- [Dahili Forum][internals_forum], Rust dilinin tasarımı ve geliştirilmesi
   için tahsis edilmiş alan (Cargo, standart kütüphane ve altyapının diğer
   iç parçalarını içerir.)
 
-[kullanıcı_forumu]: https://users.rust-lang.org/
-[dahili_forum]: https://internals.rust-lang.org/
+[users_forum]: https://users.rust-lang.org/
+[internals_forum]: https://internals.rust-lang.org/
 
 ## YouTube Kanalları
 
 Rust, topluluk üyeleri tarafından, konferanslarda ve kullanıcı gruplarında verilmiş olan 
-sunumların yüklendiği bir [YouTube_kanalına][youtube_channel] sahiptir.
+sunumların yüklendiği bir [YouTube kanalına][youtube_channel] sahiptir.
 
-[youtube_kanalı]: https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
+[youtube kanalı]: https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
 
 ## Kullanıcı Grupları ve Toplantılar
 
-Dünyada otuzbeşten daha fazla ülkede doksandan fazla [Rust_Kullanıcı_Grubu][user_group] 
+Dünyada otuzbeşten daha fazla ülkede doksandan fazla [Rust Kullanıcı Grubu][user_group] 
 bulunmaktadır. Rust programcıları, periodik olarak Rust Kullanıcı Gruplarında toplantı
 yaparlar. Bu toplantılar topluluk için eşsiz bir tanıtım, bir şeyler öğrenmek ve benzer 
 ilgi alanına sahip diğer insanlarla sosyalleşmek için harika bir yoldur. Genellikle 
@@ -199,7 +199,7 @@ Toplantılar herkese açıktır.
 Rust ile ilgili olayların tarihlerini tutmak için herkesin erişebileceği bir [takvim][calendar] 
 vardır.
 
-Dahil olmak isterseniz [topluluk_takımı][community_team] ile iletişime geçebilirsiniz.
+Dahil olmak isterseniz [topluluk takımı][community_team] ile iletişime geçebilirsiniz.
 
 [user_group]: ./user-groups.html
 [calendar]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com
@@ -209,35 +209,35 @@ Dahil olmak isterseniz [topluluk_takımı][community_team] ile iletişime geçeb
 Rust, çeşitli [takımların][teams] idareleri altında, çoğu kararını açık tartışmalar ve oturumlar
 aracılığıyla alan topluluk tarafından yürütülen bir geliştirme sürecine sahiptir.
 
-* [Çekirdek_Takım][core_team] tasarım ve geliştirme süreci yönetimi, yeni özelliklerin eklenmesi
+* [Çekirdek Takım][core_team] tasarım ve geliştirme süreci yönetimi, yeni özelliklerin eklenmesi
   ve fikir birliği sağlanamadığı zaman (ki nadiren gerçekleşir) nihai kararların alınmasından 
   sorumludur.
 
-* [Çeviri_Takımı][language_team] yeni çeviri özelliklerinin tasarımından sorumludur.
+* [Çeviri Takımı][language_team] yeni çeviri özelliklerinin tasarımından sorumludur.
 
-* [Kütüphane_Takımı][library_team] Rust standart kütüphanesinden, rust-lang kasasından (crate)
+* [Kütüphane Takımı][library_team] Rust standart kütüphanesinden, rust-lang kasasından (crate)
   ve kodlama geleneğinden sorumludurlar.
 
-* [Derleyici_Takımı][compiler_team] derleyici iç değişkenlerinden ve iyileştirmelerinden
+* [Derleyici Takımı][compiler_team] derleyici iç değişkenlerinden ve iyileştirmelerinden
   sorumludurlar.
 
-* [Geliştirme_Araçları_Takımı][dev_tools_team] Rust ile çalışmak için kullanılan araçların
+* [Geliştirme Araçları Takımı][dev_tools_team] Rust ile çalışmak için kullanılan araçların
   geliştirmelerinden sorumludurlar.
 
-* [Cargo_Takımı][cargo_team] Cargo uygulamasının tasarımı ve geliştirilmesinden sorumludurlar.
+* [Cargo Takımı][cargo_team] Cargo uygulamasının tasarımı ve geliştirilmesinden sorumludurlar.
 
-* [Altyapı_Takımı][infra_team] CI, versiyonlama, botlar ve metrikler gibi projenin altyapı
+* [Altyapı Takımı][infra_team] CI, versiyonlama, botlar ve metrikler gibi projenin altyapı
   maddelerine destek vermekten sorumludurlar.
 
-* [Topluluk_Takımı][community_team] Rust ile ilgili toplantıların koordine edilmesinden, 
+* [Topluluk Takımı][community_team] Rust ile ilgili toplantıların koordine edilmesinden, 
   sosyal yardımlardan, ticari kullanıcılardan, öğrenme materyallerinden ve sergilerden
   sorumludurlar. Ayrıca, Rust hakkındaki herhangi bir fikrin, kiminle görüşüleceği açık 
   olmadığı durumlarda, sizi doğru yere yönlendirebilirler.
   
-* [Yönetim_Takımı][mod_team], [Davranış_Kurallarının][coc] işlemesi konusunda yardım 
+* [Yönetim Takımı][mod_team], [Davranış Kurallarının][coc] işlemesi konusunda yardım 
   etmekten sorumludurlar.
 
-* [Dokümantasyon_Takımı][doc_team], Rust dilinin başarılı dokümanlara sahip olmasından
+* [Dokümantasyon Takımı][doc_team], Rust dilinin başarılı dokümanlara sahip olmasından
   sorumludur.
 
 Resmi takım listelerine ek olarak çoğu takım, bu alan hakkında bilgi sahibi olan ve yönetmelik
@@ -259,18 +259,18 @@ bir takım üyesine ulaşmakta özgürsünüz.
 
 ## Rust Geliştirme
 
-Rust, sayısı her hafta artan [ikibinden_fazla_farklı_katılımcıya][authors] sahiptir.
-[Senin_de_bu_listeye_katılmandan_memnuniyet_duyarız][contribute]!
+Rust, sayısı her hafta artan [ikibinden fazla farklı katılımcıya][authors] sahiptir.
+[Senin de bu listeye katılmandan memnuniyet duyarız][contribute]!
 
-Yukarıda bahsedildiği gibi, [Rust_Dahili_Forumu][internals_forum] Rust dilinin geliştirilmesini
+Yukarıda bahsedildiği gibi, [Rust Dahili Forumu][internals_forum] Rust dilinin geliştirilmesini
 ve tasarımını tartışmaya adanmıştır. Ayrıca, Github üzerinde gerçekleşen bir çok tartışma da
 bulunmaktadır:
 
-	- [Ana_Depo][github] ve [Problem_Takibi][issue_tracking] geliştirme çalışmaları göz önünde
+- [Ana Depo][github] ve [Problem Takibi][issue_tracking] geliştirme çalışmaları göz önünde
   yapılmaktadır. Gözden geçirme takımımız arkadaş canlısı ve yeni kişilere yol gösterici
   olmak için çabalıyor, bu yüzden depolarımıza katkı sağlamak istediğinizde çekinmeyin.
 
-- [RFC_Depo][rfcs], yorumlar için talep sürecini, çeviriler, resmi kütüphaneler ve araçlar için
+- [RFC Depo][rfcs], yorumlar için talep sürecini, çeviriler, resmi kütüphaneler ve araçlar için
   önerilen yeni özellikler konusunda, Rust topluluğu ve takımlarının fikir birliğine varmasını 
   takip ediyor.
 
